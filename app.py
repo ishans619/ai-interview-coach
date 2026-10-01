@@ -32,11 +32,15 @@ topic = st.selectbox(
     "Select the topic",
     [
         "Java",
+        "Python",
+        "FastAPI",
+        "Langchain",
         "Spring Boot",
         "DSA",
         "System Design",
         "SQL",
-        "Microservices"
+        "Microservices",
+        "Others"
     ]
 )
 
